@@ -1,0 +1,19 @@
+body, button {
+  background-color: #000000;
+}
+
+.white {
+  color: #FFFFFF;
+}
+
+.red {
+  color: #FF0000;
+}
+
+.yellow {
+  color: #FFFF00;
+}
+
+#sandra-introduction {
+  background-color: #FFFF00;
+}
